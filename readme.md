@@ -1,5 +1,9 @@
 ### Javascript
 
+## DOM
+
+- document represents web page loaded in the browser. serves as entry point into content.
+
 ## Destructuring
 
 ## async & fetch
