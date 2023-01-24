@@ -4,6 +4,21 @@
 
 - document represents web page loaded in the browser. serves as entry point into content.
 
+## statement vs expressions
+
+- expressions asking JS for something. statements tell JS to do something
+
+## Filter
+
+- give function that returns true or false (predicate function). true returns into new array
+
+## While loops
+
+- while something is true, keep running
+
+## setTimeout
+
+
 ## Destructuring
 
 ## async & fetch
